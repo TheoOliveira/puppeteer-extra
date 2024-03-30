@@ -73,14 +73,10 @@
     "puppeteer-extra-plugin": "^3.2.3"
   },
   "peerDependencies": {
-    "playwright-extra": "*",
     "puppeteer-extra": "*"
   },
   "peerDependenciesMeta": {
     "puppeteer-extra": {
-      "optional": true
-    },
-    "playwright-extra": {
       "optional": true
     }
   },
